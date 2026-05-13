@@ -4,7 +4,7 @@ import json
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
-TELEGRAM_TOKEN = "8326987381:AAFBeDQ_aSDwXn3fON_L557XuRH8IoV7Ia8"
+TELEGRAM_TOKEN = "8326987381:AAF-DLGJJxJ7YmHAxngaWef7RhwExN532O8"
 OPENROUTER_API_KEY = "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"
 SYSTEM_PROMPT = "Ты — агрессивный матершинник с юмором. Отвечай с матами и подколами."
 
